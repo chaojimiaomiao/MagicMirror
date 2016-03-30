@@ -1,0 +1,465 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable/floor.jpg
+SHA1-Digest: U2VwQ2iRUrOdUYfuus48QIAriYo=
+
+Name: res/anim/b_boyalpha.xml
+SHA1-Digest: BQMaiLbSR7ZTyhnFMgvSjsTpcYY=
+
+Name: res/drawable/pantset1.png
+SHA1-Digest: DyNq8Z900Wm+MOaROwu2mvQnQVs=
+
+Name: res/drawable/next.png
+SHA1-Digest: rjfxWpcYNwWG3ZJgJpWPwazbdJ4=
+
+Name: res/drawable/g_hip.png
+SHA1-Digest: sVIEbgBb6JDiLPBOJn45MUsHExA=
+
+Name: res/drawable/sure.png
+SHA1-Digest: x4GsBkcGoah1NaA0nEMurAfJ0Y0=
+
+Name: res/raw/skirt.jpg
+SHA1-Digest: ALiFjY2VOzRzu6NkBu4v9YVBtTw=
+
+Name: res/anim/rotate_animation.xml
+SHA1-Digest: BOcw0gHGbr/ZdmG6SEM/fd1jm2E=
+
+Name: res/drawable/hair_2.png
+SHA1-Digest: 6awjnfcECsLW4XePQVOPlJzFpgw=
+
+Name: res/raw/hair_blonde.jpg
+SHA1-Digest: Swq00pBsAt45hB6wO9PNp3xKEQg=
+
+Name: res/layout/aldialog2.xml
+SHA1-Digest: b9Ggbp3YpuQ6JEe0DECJgtoGL7k=
+
+Name: res/drawable/weight.png
+SHA1-Digest: Xz0U9w6AKn/Y/t7d/TLw23YfmKA=
+
+Name: res/drawable/choose_male_female.jpg
+SHA1-Digest: YcvHI0rrdGrUthTjhTW/pAycqyM=
+
+Name: res/drawable/g_height.png
+SHA1-Digest: eF9dm/18nAzVdCvStCLu7pZ4sT4=
+
+Name: res/raw/background3.jpg
+SHA1-Digest: evJVfBHoC0q5T1CGYyfIYae802k=
+
+Name: res/drawable/b_mirror.png
+SHA1-Digest: oScvIditIaQkeGllootKH8fEuzc=
+
+Name: assets/b_right_arm.data
+SHA1-Digest: G7mxUE/H68VOuPZIRvwXcqv4M5c=
+
+Name: res/drawable/female.png
+SHA1-Digest: Og1A6c++boc6I0F277iiKAi4LHU=
+
+Name: res/layout/start.xml
+SHA1-Digest: XjG9nysIL+SYCkcFJS3KN6iThwg=
+
+Name: res/drawable/settings.jpg
+SHA1-Digest: zbpq4hGNREZki6rKizQ4k1DIynU=
+
+Name: res/drawable/jixu.png
+SHA1-Digest: 14FNiBisZCZ79eLq66YBvAQC92M=
+
+Name: res/raw/trousers.jpg
+SHA1-Digest: VcmdfXhHaI/aH5FmNlaZBNYtvaU=
+
+Name: res/raw/mright_arm.jpg
+SHA1-Digest: 1hKm1SFh+aJsjxrz0b/fcSf0VAY=
+
+Name: res/drawable/g9.jpg
+SHA1-Digest: 73ZeABuZtlnfZgY3QFnGOxwieKw=
+
+Name: res/drawable/redgirl.png
+SHA1-Digest: yHMJbtWSLuRKipCUJ0SLLAYYupo=
+
+Name: res/drawable/t_skip.png
+SHA1-Digest: WCFmonlEakf7ekCmPglA61zzP50=
+
+Name: res/anim/b_mirrorscale.xml
+SHA1-Digest: 3Il6KzTzy+PEsko2mYWq11gZObI=
+
+Name: res/drawable/pantset.png
+SHA1-Digest: HMLwkqdKNh+u94UpIL63OoEhSJA=
+
+Name: assets/b_hair.data
+SHA1-Digest: piNsgHvWb5u+TbNXjj+gM3sT3hc=
+
+Name: res/drawable/title.png
+SHA1-Digest: qhkRvN0AyLs2Vn2c9Duw6fVjm+c=
+
+Name: res/drawable/local.png
+SHA1-Digest: TIFRq8p4iwiSI3c+f09yPoeiSZc=
+
+Name: res/drawable/g12.jpg
+SHA1-Digest: ofKLO8vtJK49xygzxzT57jp0Oj8=
+
+Name: res/drawable/m0.png
+SHA1-Digest: GbiL/yUdUotaMGAotDUKYuNayW0=
+
+Name: res/drawable/up_leg.png
+SHA1-Digest: SpDWli3SXEoYDuxd/XxwXHx76iY=
+
+Name: res/drawable-ldpi/girl.png
+SHA1-Digest: 2KG78j7XSLQY9CqNNfwiFllvp+8=
+
+Name: assets/foot.data
+SHA1-Digest: WHcvMrNFAdj8mFexTWWETwVkecA=
+
+Name: assets/trousers.data
+SHA1-Digest: 8Bp+sa99iA8WNzToJgJXkAK+/dg=
+
+Name: res/drawable/sure_down.png
+SHA1-Digest: 1yDGq5RQrZvFBx1Z2Bkrh0JB0hQ=
+
+Name: res/raw/background4.jpg
+SHA1-Digest: 71XUVsCVU+PtjInPjPKWCgNb2Q4=
+
+Name: res/raw/foot.jpg
+SHA1-Digest: 0JQsna66g1/1kXZuVtnBop93Mss=
+
+Name: res/layout/gcust.xml
+SHA1-Digest: OHyIn4bxnW8jYumxIJYA8tTaAIc=
+
+Name: res/drawable/g_bac.jpg
+SHA1-Digest: v/0loTW680dxu1jl5hXuNDIZ9Mw=
+
+Name: res/drawable/music_off.png
+SHA1-Digest: 6WarrwKMUusITO54EI4EjZgFdww=
+
+Name: res/raw/arm_right.jpg
+SHA1-Digest: hb5TFm7RrAkV/QXlSHeYOIIu8JE=
+
+Name: res/drawable/t_modelcustomizing.png
+SHA1-Digest: WI7l0Gn7eHChUdXzEgwSjypRa80=
+
+Name: resources.arsc
+SHA1-Digest: qpLfJS+PgR4vcdWM2/k93Fi7tdc=
+
+Name: res/raw/mleg.jpg
+SHA1-Digest: eCAa0xyVrpLpnMC6IV/ErXfmcFs=
+
+Name: res/drawable/g1.jpg
+SHA1-Digest: BdYGtW8IQFBI0DuhuXGprCY+7IU=
+
+Name: assets/body.data
+SHA1-Digest: +C4icFZtZUYAGI2t78+Wu8iTpNg=
+
+Name: res/drawable/kuzi_down.png
+SHA1-Digest: 6cGRXik2ywH+8tFvhBf1MyHwqcU=
+
+Name: res/drawable/clothset1.png
+SHA1-Digest: HGSyrpGpgAyF7c5AVSAtBbXEx44=
+
+Name: res/drawable/hair_7.png
+SHA1-Digest: MNACiIjmVyWpscV9JrJFa7SLO0g=
+
+Name: AndroidManifest.xml
+SHA1-Digest: rCbN6HS2liHutoRIODVXpRg3jP8=
+
+Name: res/raw/mbody.jpg
+SHA1-Digest: nrrNAgt4t6XyBpf+kJAvy/BO2jk=
+
+Name: assets/shirt.data
+SHA1-Digest: g3KH8QAst5Xf3sAwR5MKAuX5F4k=
+
+Name: res/drawable/g3.jpg
+SHA1-Digest: trgPcVHmHCKeaeRbfM+erjqj3qU=
+
+Name: res/drawable/g_bac_blur.jpg
+SHA1-Digest: qK9P2ikybbg2ZecPy6tFnEfRW5Q=
+
+Name: res/drawable/g_mirror_blur.png
+SHA1-Digest: aruWJd/FcLY7r81o0gBFHIJSG0U=
+
+Name: assets/b_face.data
+SHA1-Digest: seHV48HZQWtPYNzrdJzrOhUIDNw=
+
+Name: res/drawable/hair_6.png
+SHA1-Digest: eyH5TR3ZCiNz6wuBetwr9ULoljA=
+
+Name: res/raw/leg.jpg
+SHA1-Digest: vV7uoiDlHelocZ3lLBmqjWR3DxA=
+
+Name: res/anim/animation2_drawable.xml
+SHA1-Digest: fjx/Zuu/M4919QZGY7bK4i8UDOU=
+
+Name: res/drawable/male1.png
+SHA1-Digest: WFZp8NJn6pO1W1mmkOT65m3SOO0=
+
+Name: res/raw/arm.jpg
+SHA1-Digest: G9gZdwzZ4kZe4MLnkw5GKOd71Lk=
+
+Name: res/drawable/m8.jpg
+SHA1-Digest: pPKNxp29gSTzcOq8GV1B8Epn0Ls=
+
+Name: assets/arm.data
+SHA1-Digest: yfYcobvA536rr/1WajXiJ/lmGx8=
+
+Name: res/raw/mleft_arm.jpg
+SHA1-Digest: LkBALNwT/rCS0vHNIUf+ZDDRqdM=
+
+Name: res/drawable/mycamera.png
+SHA1-Digest: YpciYxzyVVuGuozF/NHraPaSMvk=
+
+Name: res/drawable/rotate.png
+SHA1-Digest: 08G39DSv4jtewfRkDJoaq7XE08Q=
+
+Name: assets/hair_5.data
+SHA1-Digest: xTjVTloDCLSu0ZLXS0D8y80h5PY=
+
+Name: res/drawable/g14.jpg
+SHA1-Digest: TaunwEbS0RykRLFGtBl61zG5X/4=
+
+Name: classes.dex
+SHA1-Digest: aXrxMeIqGCPCKFcVUMWX0ZqHCHY=
+
+Name: assets/b_body.data
+SHA1-Digest: ZfBPb/u6lEerirhvNTox2ecn3Dg=
+
+Name: res/drawable/m6.jpg
+SHA1-Digest: gAmpC9QsGUMEwmIqFm099cv9P38=
+
+Name: res/raw/hair_flaxen.jpg
+SHA1-Digest: VgGdMEfMqE0QPZHWPUMA1VETIOY=
+
+Name: res/drawable/g_weight.png
+SHA1-Digest: KW1UBBMQF57gb8xyUc7UnDNHLOI=
+
+Name: res/drawable/m4.jpg
+SHA1-Digest: 7y9eaKp6w9LNyOwBVaP30g5Bbxw=
+
+Name: res/anim/g_bacalpha.xml
+SHA1-Digest: a27LEivoSnTOgyvjthTcu3DWykU=
+
+Name: res/drawable/picerror.jpg
+SHA1-Digest: t+1TIqYJGUuQu3ypBGnOkeYCquA=
+
+Name: res/drawable/g4.jpg
+SHA1-Digest: lSM1/QwITGSRfoJLve5BIkzXVbM=
+
+Name: res/drawable/up.png
+SHA1-Digest: geiVjkbIU03aJFUa7ldzX91WLjg=
+
+Name: assets/hair_2.data
+SHA1-Digest: jOWrwmwbhyQNetGSP1Cbruxd/ZY=
+
+Name: res/raw/hair_winered.jpg
+SHA1-Digest: r425b2X3/Hn4SBN2/JWTK102UmM=
+
+Name: res/drawable/hair_4.png
+SHA1-Digest: 8ohtaAZS1V7rlbmV1mvMCvh0NjU=
+
+Name: res/anim/animation1_drawable.xml
+SHA1-Digest: MpM84VR6UzidoY4gsK0uHEKxnMY=
+
+Name: res/layout/layout_gallery.xml
+SHA1-Digest: vBio+CjC1QqGjvqMsw1W+bDpDxI=
+
+Name: res/anim/f_alpha2.xml
+SHA1-Digest: 9fzUGKr+NxQ2RhX6+45I/kggV5w=
+
+Name: res/drawable/m10.jpg
+SHA1-Digest: 8TBrHjw4/wZctdGeYGzqr6mBCnY=
+
+Name: res/drawable-hdpi/girl.png
+SHA1-Digest: EFkKJ7Mj9dTJppxCT5ubYgtWZlw=
+
+Name: res/drawable/m12.jpg
+SHA1-Digest: pFBHmhhLBSIRlc6ZvhCeckFYSB8=
+
+Name: res/drawable/m2.jpg
+SHA1-Digest: jdujNV/6j6WI/h6a2OMOqrNoBxE=
+
+Name: res/drawable/height.png
+SHA1-Digest: y6/lHr09CRnOWWC2oN/mrpV71vs=
+
+Name: res/drawable/male.png
+SHA1-Digest: UooHYyoVJtPVCdibpGKBHxZZGEM=
+
+Name: res/raw/hair_black.jpg
+SHA1-Digest: CQRV4EQ3J/tmr7xmdSqCGu34XZI=
+
+Name: res/drawable/skirt.jpg
+SHA1-Digest: iMuDp72fz79HsG6UmKL0TjFoGOk=
+
+Name: res/raw/hair_brown.jpg
+SHA1-Digest: xfVc91jkzvp0zWB4iezq6JCjQl0=
+
+Name: res/anim/g_mirrorscale.xml
+SHA1-Digest: 2yIyLzBe31/ZlvsJikTjXJXzfhA=
+
+Name: res/drawable/clothset.png
+SHA1-Digest: MFDH0jNfdvlPYXPptd7g8QM+hLM=
+
+Name: res/drawable/bacset1.png
+SHA1-Digest: V+yBg3Cd7zAa/MKBQwfu1gIZ6f4=
+
+Name: res/drawable/bacset.png
+SHA1-Digest: xxlmdetoSUAcssLLr0OoZGK3VX4=
+
+Name: res/raw/shirt_with_long_sleeve.jpg
+SHA1-Digest: GyBuECsxlgqkiJed1uzAGKSYMZ4=
+
+Name: res/raw/shirt.jpg
+SHA1-Digest: XJCpsI41i+rK9H+pLwszS3dLUXg=
+
+Name: res/drawable/hair_5.png
+SHA1-Digest: 9fxDMVH8yqRakUcT3yWzSwAlFkA=
+
+Name: res/raw/background2.jpg
+SHA1-Digest: 5XMb6YMFyTLRLlOAqcypQlHEMG0=
+
+Name: assets/b_left_arm.data
+SHA1-Digest: RO8/91v2qKNBa+aVeqnrwf0TTIk=
+
+Name: res/layout/camera.xml
+SHA1-Digest: pTjkPAaSFPUqxGsEEQdnfsMoTAY=
+
+Name: res/drawable/qunzi_down.png
+SHA1-Digest: vhEAPGdEmMrOmMtC79v42nWKa1s=
+
+Name: res/raw/head.jpg
+SHA1-Digest: FJULM2Bqkmf14y+FMwmhw7GDCrs=
+
+Name: assets/b_leg.data
+SHA1-Digest: 8uiEH/1BKoKKREgLOFtb+TrPSVI=
+
+Name: res/drawable/g_mirror.png
+SHA1-Digest: egIeGrm47wUbVaBn7OGBljl+/zI=
+
+Name: res/drawable/m3.jpg
+SHA1-Digest: VZvXTwQ+a6L8uSfEq0uFOZ8FruM=
+
+Name: res/drawable/music_on.png
+SHA1-Digest: vbMtNfP9UuRWXUP7qJheCB7refE=
+
+Name: assets/leg.data
+SHA1-Digest: 8GfOMUCwINIM/5sg+RQpS7ZhRNk=
+
+Name: res/raw/arm_left.jpg
+SHA1-Digest: GwrVDu69XpfFgsjLzN0OwMLLuMo=
+
+Name: res/drawable/xiashen.png
+SHA1-Digest: t138Bshux8XMe+BxJZkGEJj45tU=
+
+Name: res/drawable/b_bac.jpg
+SHA1-Digest: u4QEEYujw5D0o6YcYL07du6SnxI=
+
+Name: res/drawable/tips.png
+SHA1-Digest: Fudc8tcn/nOeqUpdhYY+gYOvvWM=
+
+Name: res/drawable/g6.jpg
+SHA1-Digest: Yl6xuRPdGztrIaW+3l1mRYrydHE=
+
+Name: res/drawable/g8.jpg
+SHA1-Digest: cO958KzVD9wIpNvfF2zkdZ4GYVk=
+
+Name: assets/skirt.data
+SHA1-Digest: uaQjAty2joeZX1GPXCCVuDpngoo=
+
+Name: res/drawable/attention.png
+SHA1-Digest: I6N9a78y59ts2tcZGod4DcYBUrI=
+
+Name: res/drawable/b_boy.png
+SHA1-Digest: scZkOcBPmzvFkVZmnXa6NqdDzFo=
+
+Name: assets/hair_7.data
+SHA1-Digest: X1dCSq3nl/16SBqFiYFn6By936k=
+
+Name: res/drawable/magicmirror.png
+SHA1-Digest: 0NVYl0S1c5zpZALrAlGX4yv7/L8=
+
+Name: res/raw/body.jpg
+SHA1-Digest: mjGZs0Qe2Viu6yRs+NVLKtwJxFY=
+
+Name: res/raw/mface.jpg
+SHA1-Digest: LM46CE96gg04j1okJAa/sqYU5rk=
+
+Name: res/layout/aldialog.xml
+SHA1-Digest: o/Ga0ovhfrLcyuvX5WT8Ax/+UJI=
+
+Name: res/drawable/m5.jpg
+SHA1-Digest: LZXUvFaWPryFRVRcmEJR0nfRijg=
+
+Name: assets/hair_4.data
+SHA1-Digest: gjgxtWMNAfcffeAnPGNdoXqpWIw=
+
+Name: res/raw/mhair.jpg
+SHA1-Digest: z7QABQt1oJFAYRpfQDMjk5X0FEc=
+
+Name: res/anim/f_alpha1.xml
+SHA1-Digest: 0YIdF6/IMwu43ocKrj2sMj9brdY=
+
+Name: assets/head.data
+SHA1-Digest: vraDD9tKWN4eUXkio7mvJLXwP8k=
+
+Name: res/drawable/g_bust.png
+SHA1-Digest: cM+WELzsik/g4zANxSB5BRRIl+g=
+
+Name: res/drawable-mdpi/girl.png
+SHA1-Digest: fquhztdLHCOwVBcBPbCD+Yk4P5o=
+
+Name: res/drawable/g5.jpg
+SHA1-Digest: t51rcfYdQbdeyewUVbIbw9kw05g=
+
+Name: res/layout/bcust.xml
+SHA1-Digest: 0SS+Z+xWHvr8i/o0jNu5ET9sLv4=
+
+Name: res/drawable/g15.jpg
+SHA1-Digest: V3Mleh8fVjE5wuH2fKZ3MT2l0do=
+
+Name: assets/longsleeveshirt.data
+SHA1-Digest: MtjlRm9dP8tBNIuOt5QYPuH0uCo=
+
+Name: res/raw/background1.jpg
+SHA1-Digest: O3KG6QguisRbrWp8uJ7LvnoLLTE=
+
+Name: res/drawable/g7.jpg
+SHA1-Digest: d8SvXLo7HLDRfDDMQRPLoHOqL+8=
+
+Name: res/raw/black.jpg
+SHA1-Digest: B2rfJgYsyYKPD85dKdUGGVy5Yrg=
+
+Name: res/raw/leg_to_waist.jpg
+SHA1-Digest: VAcVCZ6A5woO4pYFuSjYaURffPc=
+
+Name: res/drawable/g11.jpg
+SHA1-Digest: Sn5x5QpAkhrzgP1B08gUozqxz4c=
+
+Name: res/drawable/g10.jpg
+SHA1-Digest: sjyvL9E0952sAPF9VY0DIDVO82k=
+
+Name: res/layout/cut.xml
+SHA1-Digest: VD0FgXmPGfZ6HKKk91ET5HelBOc=
+
+Name: res/drawable/g_waist.png
+SHA1-Digest: hTeB8Jv8jww0uiCs1B/h2Gx1PGo=
+
+Name: res/drawable/g2.jpg
+SHA1-Digest: nskZjCnezFukATpuqR6NgLqgcdA=
+
+Name: res/drawable/m9.jpg
+SHA1-Digest: rfe9LN5ZvLeKDmtqfOdAni7xIoM=
+
+Name: res/drawable/g13.jpg
+SHA1-Digest: 4yJPAp3GL9gzzt3nm2MlDXWKW18=
+
+Name: res/drawable/last.png
+SHA1-Digest: p1abDIjie/abJgGsOx7NCWsF2Gg=
+
+Name: res/drawable/m1.jpg
+SHA1-Digest: Dso9sDf+gA8g1wCgqkBEuDDsfxs=
+
+Name: assets/g_leg.data
+SHA1-Digest: 8GfOMUCwINIM/5sg+RQpS7ZhRNk=
+
+Name: res/drawable/female1.png
+SHA1-Digest: ZYtr8Jnnsji57F16FXQvDszETu4=
+
+Name: assets/hair_6.data
+SHA1-Digest: 0epNsU6IwmeGv/Cs8d5SJOQ2EVA=
+
